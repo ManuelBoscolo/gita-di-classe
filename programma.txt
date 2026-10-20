@@ -1,5 +1,6 @@
 attività
 -09:00 colazione
+-10:00 attività didattica 
 -12:00 pranzo
 -20:00 cena 
 -21:00 andare a dormire 
